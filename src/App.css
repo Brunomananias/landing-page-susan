@@ -1,0 +1,28 @@
+/* Reset básico para garantir consistência entre navegadores */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden; /* impede scroll lateral */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Garantir que os links tenham a cor correta */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Remover estilos padrão de lista */
+ul, ol {
+  list-style: none;
+}
