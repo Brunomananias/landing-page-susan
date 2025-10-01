@@ -35,7 +35,7 @@ const especialidades = [
   },
 ];
 
-const EspecialidadesGrid: React.FC = () => {
+const Especialidades: React.FC = () => {
   // Pré-carrega imagens no carregamento da página
   useEffect(() => {
     especialidades.forEach((item) => {
@@ -123,4 +123,4 @@ const EspecialidadesGrid: React.FC = () => {
   );
 };
 
-export default EspecialidadesGrid;
+export default Especialidades;

@@ -1,0 +1,5 @@
+<!-- Salve como: /public/apple-icon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="crimson" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M16 3c-1.1 0-2.4.6-3 1.5S12 6.5 12 7c0 0 .3-1.2.7-2C13.3 4 14 3 16 3z"/>
+  <path d="M20.5 12c-.4-3.5-2.6-5.5-5-5.5-1.5 0-2.7.6-3.5 1.5-.8-.9-2-1.5-3.5-1.5-2.4 0-4.6 2-5 5.5C3 17 6 21 9.5 21c1.3 0 2.1-.5 3-1.2.9.7 1.7 1.2 3 1.2C18 21 21 17 20.5 12z"/>
+</svg>
